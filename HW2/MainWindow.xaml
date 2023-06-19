@@ -35,28 +35,28 @@
                             <DoubleAnimationUsingKeyFrames 
                                 BeginTime="0:0:3"
                                 Storyboard.TargetProperty="(Canvas.Top)"                        
-                                Duration="0:0:3"                       
+                                Duration="0:0:2"                       
                                 DecelerationRatio="1">
                                 <LinearDoubleKeyFrame KeyTime="99%" Value="100"/>
                             </DoubleAnimationUsingKeyFrames>
                             <DoubleAnimationUsingKeyFrames
                                 BeginTime="0:0:3"
                                 Storyboard.TargetProperty="(Canvas.Top)"                        
-                                Duration="0:0:3"                       
+                                Duration="0:0:2"                       
                                 AccelerationRatio="1">
                                 <LinearDoubleKeyFrame KeyTime="99%" Value="184"/>
                             </DoubleAnimationUsingKeyFrames>
                             <DoubleAnimationUsingKeyFrames 
-                                BeginTime="0:0:6"
+                                BeginTime="0:0:5"
                                 Storyboard.TargetProperty="(Canvas.Top)"                        
-                                Duration="0:0:3"                       
+                                Duration="0:0:1"                       
                                 DecelerationRatio="1">
                                 <LinearDoubleKeyFrame KeyTime="99%" Value="150"/>
                             </DoubleAnimationUsingKeyFrames>
                             <DoubleAnimationUsingKeyFrames
-                                BeginTime="0:0:6"
+                                BeginTime="0:0:5"
                                 Storyboard.TargetProperty="(Canvas.Top)"                        
-                                Duration="0:0:3"                       
+                                Duration="0:0:1"                       
                                 AccelerationRatio="1">
                                 <LinearDoubleKeyFrame KeyTime="99%" Value="184"/>
                             </DoubleAnimationUsingKeyFrames>
